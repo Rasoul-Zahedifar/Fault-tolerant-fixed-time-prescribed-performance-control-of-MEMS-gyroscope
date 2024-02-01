@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Fault-tolerant-fixed-time-prescribed-performance-control-of-MEMS-gyroscope
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Seyed Mohammadreza
+    family-names: Esmaeili
+    orcid: 'https://orcid.org/0000-0002-7974-5798'
+    email: smohammadreza.esmaeili@gmail.com
+  - given-names: Rasoul
+    family-names: Zahedifar
+    email: rasoul.zahedifar75@gmail.com
+    orcid: 'https://orcid.org/0000-0002-7821-0185'
+  - given-names: Ali
+    family-names: Keymasi Khalaji
+    email: keymasi@khu.ac.ir
+    orcid: 'https://orcid.org/0000-0001-5414-6046'
+identifiers:
+  - type: doi
+    value: 10.1049/cth2.12484
+url: >-
+  https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12484
