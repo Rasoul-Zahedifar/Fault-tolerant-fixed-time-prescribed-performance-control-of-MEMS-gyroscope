@@ -132,7 +132,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Rasoul Zahedifar - rasoul.zahedifar75@gmail.com,
+
 Seyed Mohammadreza Esmaeili - smohammadreza.esmaeili@gmail.com,
+
 Ali Keymasi Khalaji - keymasi@khu.ac.ir
 
 GitHub Link: [https://github.com/Rasoul-Zahedifar/Fault-tolerant-fixed-time-prescribed-performance-control-of-MEMS-gyroscope](https://github.com/Rasoul-Zahedifar/Fault-tolerant-fixed-time-prescribed-performance-control-of-MEMS-gyroscope)
