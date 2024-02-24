@@ -131,9 +131,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rasoul Zahedifar - rasoul.zahedifar75@gmail.com,
+Rasoul Zahedifar - rasoul.zahedifar75@gmail.com
 
-Seyed Mohammadreza Esmaeili - smohammadreza.esmaeili@gmail.com,
+Seyed Mohammadreza Esmaeili - smohammadreza.esmaeili@gmail.com
 
 Ali Keymasi Khalaji - keymasi@khu.ac.ir
 
